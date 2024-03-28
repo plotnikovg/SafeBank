@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SafeBank.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SafeBank.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+551a4a0afae90bfb9d638c6900ce6a5880dc1f5a")]
-[assembly: System.Reflection.AssemblyProductAttribute("SafeBank.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SafeBank.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("SafeBank.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SafeBank.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
